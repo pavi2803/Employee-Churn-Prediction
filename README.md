@@ -1,6 +1,6 @@
 ## Employee Churn Prediction
 
-### Exploratory Data Ananlysis
+### Exploratory Data Analysis
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/802a6361-8da9-4304-9ec6-f575de6a73e6">
 
